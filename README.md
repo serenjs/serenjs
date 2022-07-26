@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @serenjs, a rookie Frontend Developer looking to expand his skills 
-- 🌱 I’m currently learning Next.js
+- 👋 Hi, I’m @serenjs, a Frontend Developer looking to expand his skills 
+- 🌱 I’m currently learning Vue.js
 
 
 <!---
